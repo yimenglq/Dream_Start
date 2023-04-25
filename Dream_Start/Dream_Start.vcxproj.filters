@@ -13,5 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\src">
+      <UniqueIdentifier>{aa821071-db0f-49d2-9ebe-0469ba2a29fa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Game_Entry.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game_Init.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head\Game_Init.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Import.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Game_Entry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\erro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Game_Init_cpp_macro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
