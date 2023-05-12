@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\src">
+      <UniqueIdentifier>{aa821071-db0f-49d2-9ebe-0469ba2a29fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Preview">
+      <UniqueIdentifier>{6e4c46fa-c51f-4ceb-8c0a-6a2be9420937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\src\Preview">
+      <UniqueIdentifier>{0c08e818-c0d9-4612-9e84-6a45820a9759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\delete">
+      <UniqueIdentifier>{bbc7d1d8-54aa-4870-bc91-9073b7fe5c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\src\delete">
+      <UniqueIdentifier>{4237f055-ece0-4e31-a364-3d15d8dabe79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Game_Entry.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game_Init.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game_Backpack.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Mouse_Events.cpp">
+      <Filter>源文件\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Preview.cpp">
+      <Filter>源文件\src\Preview</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Preview_Prop.cpp">
+      <Filter>源文件\src\Preview</Filter>
+    </ClCompile>
+    <ClCompile Include="src\delete_.cpp">
+      <Filter>源文件\src\delete</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head\Game_Init.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Import.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Game_Entry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\erro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Game_Init_cpp_macro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Game_Backpack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Struct_Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Mouse_Events.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Preview.h">
+      <Filter>头文件\Preview</Filter>
+    </ClInclude>
+    <ClInclude Include="head\Preview_Prop.h">
+      <Filter>头文件\Preview</Filter>
+    </ClInclude>
+    <ClInclude Include="head\delete_.h">
+      <Filter>头文件\delete</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

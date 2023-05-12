@@ -1,0 +1,61 @@
+﻿  Game_Backpack.cpp
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_top”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_prop_listadd”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(194,6): warning C4101: “xhdc”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(195,12): warning C4101: “hPen_p”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(476,9): warning C4244: “初始化”: 从“DWORD”转换到“WORD”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(491,23): warning C4244: “=”: 从“__int64”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(523,20): warning C4477: “fwprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(523,20): message : 请考虑在格式字符串中使用“%lld”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(523,20): message : 请考虑在格式字符串中使用“%I64d”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(563,56): warning C4244: “参数”: 从“LONGLONG”转换到“long”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(594,20): warning C4477: “fwprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(594,20): message : 请考虑在格式字符串中使用“%lld”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(594,20): message : 请考虑在格式字符串中使用“%I64d”
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(680,38): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(681,24): warning C4244: “=”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Backpack.cpp(642,22): warning C4101: “flist_”: 未引用的局部变量
+  Game_Entry.cpp
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_top”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_prop_listadd”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(109,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(274,12): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(318,12): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(329,10): warning C4101: “rc”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(330,11): warning C4101: “text”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(573,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(873,2): warning C4102: “R”: 未引用的标签
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(900,3): warning C4060: switch 语句没有包含“case”或“default”标签
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(885,6): warning C4101: “hdc”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(884,14): warning C4101: “pt”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(1031,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(1226,1): warning C4552: ”-“: 未使用表达式结果
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(1068,10): warning C4101: “hbmap”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(1069,9): warning C4101: “bitmap”: 未引用的局部变量
+  Preview.cpp
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_top”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_prop_listadd”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview.cpp(66,2): warning C4065: switch 语句包含“default”但是未包含“case”标签
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview.cpp(74,8): warning C4101: “menu”: 未引用的局部变量
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview.cpp(248,40): warning C4244: “参数”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview.cpp(249,20): warning C4244: “=”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview.cpp(212,14): warning C4101: “buff_prop”: 未引用的局部变量
+  Preview_Prop.cpp
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_top”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_prop_listadd”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\src\Preview_Prop.cpp(26,2): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  delete_.cpp
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_top”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\head\Import.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“prop_FILE_prop_listadd”的左侧
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(109,18): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(110,18): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(115,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(123,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(126,1): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(174,9): warning C4244: “初始化”: 从“DWORD”转换到“WORD”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(200,25): warning C4244: “参数”: 从“LONGLONG”转换到“long”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(203,17): warning C4244: “初始化”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+J:\毕业设计\Dream_Start\Dream_Start\src\delete_.cpp(233,25): warning C4244: “=”: 从“LONGLONG”转换到“size_t”，可能丢失数据
+  正在生成代码...
+J:\毕业设计\Dream_Start\Dream_Start\src\Game_Entry.cpp(30): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  Dream_Start.vcxproj -> J:\毕业设计\Dream_Start\Debug\Dream_Start.exe
